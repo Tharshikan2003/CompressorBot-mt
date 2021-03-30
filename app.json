@@ -8,11 +8,11 @@
     "stack": "container",
     "env": {
         "APP_ID": {
-            "description": "You api id, from my.telegram.org ",
+            "description": "You api id, from my.telegram.org or @apiScrapperRoBot.",
             "value": ""
         },
         "API_HASH": {
-            "description": "You api hash, from my.telegram.org",
+            "description": "You api hash, from my.telegram.org or @apiScrapperRoBot.",
             "value": ""
         },
         "BOT_TOKEN": {
@@ -22,5 +22,10 @@
         "OWNER_ID": {
             "description": "Get ur Id Of Telegram nd Paste Here.",
             "value": ""
+        },
+        "LOG_CHANNEL": {
+            "description": "Create a private group. Add @missrose_bot and your bot. Do /id. Paste that here",
+             "value": ""
         }
+    }
 }
