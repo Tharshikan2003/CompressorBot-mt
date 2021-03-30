@@ -3,16 +3,16 @@
     "description": "A Normal Telegram Bot Which can Compress/encode/ Generate Samples of videos.",
     "logo": " #https://telegra.ph/file/75ee20ec8d8c8bba84f02.jpg",
     "keywords": ["Telegram","python", "Video","Compressor","Encoder"],
-    "repository": "https://github.com/1Danish-00/CompressorBot",
-    "success_url": "https://t.me/danish_00",
+    "repository": "https://github.com/amegh-amz/CompressorBot-mt.git",
+    "success_url": "https://t.me/amzmtaccount",
     "stack": "container",
     "env": {
         "APP_ID": {
-            "description": "You api id, from my.telegram.org or @apiScrapperRoBot.",
+            "description": "You api id, from my.telegram.org ",
             "value": ""
         },
         "API_HASH": {
-            "description": "You api hash, from my.telegram.org or @apiScrapperRoBot.",
+            "description": "You api hash, from my.telegram.org",
             "value": ""
         },
         "BOT_TOKEN": {
